@@ -1,0 +1,131 @@
+2022-09-16 14:01:07,138  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7040
+ 2022-09-16 14:01:07,218  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5041
+ 2022-09-16 14:01:07,244  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-16 14:01:07,252  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-16 14:01:07,257  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\Mert\Desktop\Camunda .Net\Camunda.WHttpClient\Camunda.WHttpClient\
+ 2022-09-16 14:01:13,095  INFO Camunda.WHttpClient.Controllers.TaskController.MoveNext [30] - MESSAGE: Sending request to getting all tasks
+ 2022-09-16 14:01:13,110  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [70] - MESSAGE: Sending HTTP request
+ 2022-09-16 14:01:13,113  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [76] - MESSAGE: Sending GET HTTP request to : http://localhost:8080/engine-rest/task
+ 2022-09-16 14:01:13,282  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [90] - MESSAGE: GET has been sent to : http://localhost:8080/engine-rest/task
+ 2022-09-16 14:01:13,286  INFO Camunda.WHttpClient.Controllers.TaskController.MoveNext [32] - MESSAGE: Request has been sent to getting all tasks
+ 2022-09-16 14:02:02,207  INFO Camunda.WHttpClient.Controllers.TaskController.MoveNext [30] - MESSAGE: Sending request to getting all tasks
+ 2022-09-16 14:02:02,209  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [70] - MESSAGE: Sending HTTP request
+ 2022-09-16 14:02:02,213  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [76] - MESSAGE: Sending GET HTTP request to : http://localhost:8080/engine-rest/task
+ 2022-09-16 14:02:02,227  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [90] - MESSAGE: GET has been sent to : http://localhost:8080/engine-rest/task
+ 2022-09-16 14:02:02,231  INFO Camunda.WHttpClient.Controllers.TaskController.MoveNext [32] - MESSAGE: Request has been sent to getting all tasks
+ 2022-09-16 14:18:25,814  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7040
+ 2022-09-16 14:18:26,251  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5041
+ 2022-09-16 14:18:26,291  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-16 14:18:26,307  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-16 14:18:26,313  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\Mert\Desktop\Camunda .Net\Camunda.WHttpClient\Camunda.WHttpClient\
+ 2022-09-16 14:22:54,563  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [107] - MESSAGE: Sending request to get user profile with id : future1
+ 2022-09-16 14:22:54,590  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [70] - MESSAGE: Sending HTTP request
+ 2022-09-16 14:22:54,598  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [76] - MESSAGE: Sending GET HTTP request to : http://localhost:8080/engine-rest/user/future1/profile
+ 2022-09-16 14:22:55,351  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [90] - MESSAGE: GET has been sent to : http://localhost:8080/engine-rest/user/future1/profile
+ 2022-09-16 14:22:55,357  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [112] - MESSAGE: Request has been sent to get user profile with id : future1
+ 2022-09-16 14:23:05,664  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [107] - MESSAGE: Sending request to get user profile with id : future
+ 2022-09-16 14:23:05,670  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [70] - MESSAGE: Sending HTTP request
+ 2022-09-16 14:23:05,678  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [76] - MESSAGE: Sending GET HTTP request to : http://localhost:8080/engine-rest/user/future/profile
+ 2022-09-16 14:23:05,709  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [90] - MESSAGE: GET has been sent to : http://localhost:8080/engine-rest/user/future/profile
+ 2022-09-16 14:23:05,716  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [112] - MESSAGE: Request has been sent to get user profile with id : future
+ 2022-09-16 14:29:20,090  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [33] - MESSAGE: Sending request to create user with id future1
+ 2022-09-16 14:29:20,113  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 14:29:20,373  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 14:29:20,586  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 14:29:20,590  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [37] - MESSAGE: Request has been sent to create user with id future1
+ 2022-09-16 15:40:54,535  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7040
+ 2022-09-16 15:40:54,756  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5041
+ 2022-09-16 15:40:54,786  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-16 15:40:54,799  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-16 15:40:54,814  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\Mert\Desktop\Camunda .Net\Camunda.WHttpClient\Camunda.WHttpClient\
+ 2022-09-16 15:45:36,670  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: https://localhost:7040
+ 2022-09-16 15:45:36,735  INFO Microsoft.Hosting.Lifetime.? [?] - MESSAGE: Now listening on: http://localhost:5041
+ 2022-09-16 15:45:36,747  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+ 2022-09-16 15:45:36,753  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+ 2022-09-16 15:45:36,756  INFO Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\Mert\Desktop\Camunda .Net\Camunda.WHttpClient\Camunda.WHttpClient\
+ 2022-09-16 15:46:33,430  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:33,455  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:33,659  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:33,996  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,001  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:34,171  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:34,175  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:34,180  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,224  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,229  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:34,341  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:34,346  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:34,351  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,379  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,384  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:34,535  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:34,547  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:34,556  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,585  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,591  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:34,731  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:34,737  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:34,747  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,777  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:34,785  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:34,963  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:34,973  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:34,981  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:35,012  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:35,020  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:35,348  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:35,358  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:35,366  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:35,438  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:35,446  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:35,614  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:35,621  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:35,628  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:35,664  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:35,672  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:35,839  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:35,851  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:35,861  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:35,898  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:35,906  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:36,191  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:36,207  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:36,218  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:36,279  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:36,306  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:36,517  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:36,531  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:36,558  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:36,601  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:36,614  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:36,814  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:36,822  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:36,830  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:36,869  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:36,880  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:37,053  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:37,059  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:37,071  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:37,110  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:37,117  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:37,289  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:37,296  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:37,303  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:37,332  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:37,338  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:37,472  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:37,477  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:37,484  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:37,507  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:37,514  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:46:37,634  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id mert45
+ 2022-09-16 15:46:37,641  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:46:37,649  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:37,707  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:46:37,730  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id mert45
+ 2022-09-16 15:49:09,265  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [34] - MESSAGE: Sending request to create user with id taylan
+ 2022-09-16 15:49:09,270  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [28] - MESSAGE: Sending HTTP request with JSON Body
+ 2022-09-16 15:49:09,275  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [35] - MESSAGE: Sending POST HTTP request to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:49:09,315  INFO Camunda.WHttpClient.Connections.Connection.MoveNext [52] - MESSAGE: POST has been sent to : http://localhost:8080/engine-rest/user/create
+ 2022-09-16 15:49:09,321  INFO Camunda.WHttpClient.Controllers.UserController.MoveNext [38] - MESSAGE: Request has been sent to create user with id taylan
+ 
